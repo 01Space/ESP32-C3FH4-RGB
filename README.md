@@ -1,8 +1,11 @@
 # ESP32-C3FH4-RGB 
 
 ![image](https://github.com/andypiper/fivebyfive/blob/main/reference/ESP32-C3FH4-RGB-reference.jpeg)
-# driver
 
+
+![image](https://github.com/ccattuto/wordle-device/blob/main/wordle-device.jpg)
+
+# driver
 
 https://zadig.akeo.ie/
 
@@ -21,13 +24,19 @@ Hold down B button on board, press R button and release again but keep on pressi
 
 Serial works with "CDC enable on boot" set to true.
 
-# Here is also a very cool fivebyfive code contributed by Andy piper
+# fivebyfive-by Andy piper
 https://github.com/andypiper/fivebyfive
+
+# wordle-device-Ciro Cattuto
+https://github.com/ccattuto/wordle-device
 
 # Open Source / Contributors
 
 
 Andy piper (for fivebyfive),
 
+Ciro Cattuto (for wordle-device),
+
+Geek Mom Projects([Sites Using React](https://twitter.com/GeekMomProjects/status/1479210241807900676)  ),
 
 And many many others who haven't been mentioned....
