@@ -15,6 +15,7 @@ Install ESP32 Digital RGB LED Drivers and Adafruit NeoPixel via option tools / M
 Setup connection to connect to Board ESP32C3 Dev and com port which is assocuiated to USB Serial Device, not jtag (see Device Manager on Win10). Other settings see settings.png.
 
 Upload sketch from Arduino IDE:
+
 Hold down B button on board, press R button and release again but keep on pressing B, trigger Arduino IDE to upload sketch, keep B pressed until Arduino IDE says that it's connected. Then you can release B button.
 
 Serial works with "CDC enable on boot" set to true.
