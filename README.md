@@ -24,7 +24,7 @@ Hold down B button on board, press R button and release again but keep on pressi
 
 Serial works with "CDC enable on boot" set to true.
 
-#Other branches
+# Other branches
 
 fivebyfive-by Andy piper
 https://github.com/andypiper/fivebyfive
