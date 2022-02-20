@@ -24,10 +24,12 @@ Hold down B button on board, press R button and release again but keep on pressi
 
 Serial works with "CDC enable on boot" set to true.
 
-# fivebyfive-by Andy piper
+#Other branches
+
+fivebyfive-by Andy piper
 https://github.com/andypiper/fivebyfive
 
-# wordle-device-Ciro Cattuto
+wordle-device-Ciro Cattuto
 https://github.com/ccattuto/wordle-device
 
 # Open Source / Contributors
