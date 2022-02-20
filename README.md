@@ -23,3 +23,11 @@ Serial works with "CDC enable on boot" set to true.
 
 Here is also a very cool fivebyfive code contributed by Andy piper
 https://github.com/andypiper/fivebyfive
+
+Open Source / Contributors
+Origins for this fork (Thanks!):
+
+fivebyfive (for fivebyfive),
+
+
+And many many others who haven't been mentioned....
