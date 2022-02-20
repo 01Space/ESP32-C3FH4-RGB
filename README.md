@@ -32,6 +32,10 @@ https://github.com/andypiper/fivebyfive
 wordle-device-Ciro Cattuto
 https://github.com/ccattuto/wordle-device
 
+# esp32c3-bling Series' Articles
+
+https://dev.to/andypiper/series/16659
+
 # Open Source / Contributors
 
 
