@@ -51,6 +51,11 @@ Geek Mom Projects([Sites Using React](https://twitter.com/GeekMomProjects/status
 
 And many many others who haven't been mentioned....
 
+# Community
+
+We have both a Discord Server 
+https://discord.gg/zEEvySU3
+
 # Contact 01Space
 facebook:Jiale Xu
 twitter:yongxiangxu251
